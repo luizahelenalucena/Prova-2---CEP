@@ -1,4 +1,3 @@
-# Prova 2 - CEP
 # Prova 2 – CEP (Controle Estatístico de Processo)
 
 Este repositório contém a solução da **Prova 2 de CEP**, utilizando um conjunto de dados de defeitos de manufatura para construção de **cartas de controle por atributos** (P, NP, C e U) em Python.
